@@ -7,7 +7,7 @@
   
 }
 body{
-  background-color: rgb(3, 3, 37);
+  background-color: rgb(2, 2, 12);
   height: 100vh;
   display: flex;
   justify-content: center;
@@ -16,4 +16,10 @@ body{
 }
 .container{
   border-radius: 15px;
+}
+.content h1{
+  color: white;
+}
+.content p{
+  color: grey;
 }
