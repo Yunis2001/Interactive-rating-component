@@ -6,3 +6,14 @@
   font-size: 'Overpass';
   
 }
+body{
+  background-color: rgb(3, 3, 37);
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  
+}
+.container{
+  border-radius: 15px;
+}
