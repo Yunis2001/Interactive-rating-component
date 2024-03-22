@@ -16,10 +16,15 @@ body{
 }
 .container{
   border-radius: 15px;
+  background-color: rgb(31, 18, 61);
 }
 .content h1{
   color: white;
 }
 .content p{
   color: grey;
+}
+.rating {
+  border-radius: 50%;
+  
 }
